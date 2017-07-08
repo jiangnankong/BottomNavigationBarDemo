@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--淡蓝色-->
+    <color name="alphaBlue">#87CEFA</color>
+    <!-- app的主要颜色  蓝色-->
+    <color name="mainColor">#FF3491E8</color>
+    <!-- 白色-->
+    <color name="white">#ffffff</color>
+    <!-- 灰色字体的颜色-->
+    <color name="text_gray">#FF777878</color>
+    <!-- 线条颜色-->
+    <color name="line_bg_color">#cccccc</color>
+    <!-- 黑色-->
+    <color name="black">#000000</color>
+    <!-- 黑色字体-->
+    <color name="alpha_black_text">#FF333333</color>
+    <!-- 橙色-->
+    <color name="orange_color">#FFFD6101</color>
+    <!-- 淡蓝色-->
+    <color name="alpha_blue">#FF5FB1FD</color>
+    <!-- 红包字体颜色-->
+    <color name="red_packet_color">#FF82B122</color>
+    <!-- 优惠券字体颜色-->
+    <color name="youhui_card">#FFCE735F</color>
+    <!-- 淡淡的线条颜色-->
+    <color name="line_color">#50cccccc</color>
+    <!-- 灰色的背景颜色-->
+    <color name="gray_bg_color">#FFEFEEF4</color>
+    <!-- 淡黑色-->
+    <color name="alpahBlack">#60333333</color>
+    <!-- 红色-->
+    <color name="red">#ff0000</color>
+    <!-- 购物车背景黑色-->
+    <color name="shop_car_bg">#FF4A4A4A</color>
+
+    <!-- zXing-->
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#3F454F</color>
+    <color name="viewfinder_mask">#88000000</color>
+    <!--zxing显示条码背景色-->
+    <!-- 绿色-->
+    <color name="green">#00ff00</color>
+
+    <!-- 透明-->
+    <color name="alphaAll">#00000000</color>
+    <!-- 透明-->
+    <color name="translucent">#60000000</color>
+    <color name="alpaha_gray">#FFEFEFEF</color>
+
+    <!-- 意见反馈背景颜色-->
+
+    <!-- 意见反馈按钮违背选中颜色-->
+    <color name="suggest_btn_uncheck">#FFE3E3E3</color>
+
+    <!-- 登录界面的背景灰色-->
+    <color name="login_gray_bg">#FFEFEFEF</color>
+
+    <!-- 首页颜色-->
+    <color name="main_green">#34AE2B</color>
+    <color name="money_green">#007700</color>
+<!-- 登录界面的背景灰色-->
+    <color name="collect_money_green">#4CB158</color>
+    <!-- 计算器button背景色-->
+    <color name="calcuator">#EEEFEF</color>
+    <!-- 收款金额背景色-->
+    <color name="calcuator_money">#2DA13B</color>
+    <!-- 数据汇总-->
+    <color name="adta_aggregation">#4EAF5D</color>
+    <color name="adta_aggregation2">#57B464</color>
+    <color name="windowbackground">#F8F8F8</color>
+
+
+    <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="btn_login_normal">#00acff</color>
+    <color name="btn_login_pressed">#46678d</color>
+    <color name="btn_logout_normal">#d33f3f</color>
+    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="btn_register_normal">#ffffff</color>
+    <color name="btn_register_pressed">#00acff</color>
+    <color name="common_bottom_bar_normal_bg">#2d2f31</color>
+    <color name="common_bottom_bar_selected_bg">#161718</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="btn_pressed_green_solid">#B6DA53</color>
+    <color name="divider_list">#d4d4d4</color>
+    <color name="top_bar_normal_bg">#00acff</color>
+    <color name="error_item_color">#F6EBE6</color>
+    <color name="bottom_bar_normal_bg">#2D2F31</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="btn_green_noraml">#68C270</color>
+    <color name="btn_green_pressed">#6FCD78</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="orange">#FFA500</color>
+    <color name="gray_pressed">#b5b5b6</color>
+    <color name="gray_normal">#666667</color>
+    <color name="gray">#cccccc</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="voip_interface_text_color">#bababa</color>
+    <color name="black_deep">#FF000000</color>
+    <color name="black2">#000000</color>
+    <color name="gray_text">#666666</color>
+    <color name="text_color">#444444</color>
+    <color name="btn_answer_pressed">#4ebcd3</color>
+    <color name="btn_answer_normal">#2dafa3</color>
+    <color name="list_itease_secondary_color">#888888</color>
+    <color name="alpha_gray">#30cccccc</color>
+    <color name="blueTop">#ffffff</color>
+    <!-- app的主要颜色  蓝色-->
+    <color name="mainColor2">#FF3491E8</color>
+    <color name="list_itease_primary_color">#000</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="emojicon_tab_selected">#D9D9D9</color>
+    <color name="emojicon_tab_nomal">#ffffff</color>
+    <!-- 群组头像背景-->
+    <color name="groupImgBg">#ffe3E3E3</color>
+</resources>
